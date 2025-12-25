@@ -1,0 +1,1 @@
+what is the difference between outline:none or outline: 0
